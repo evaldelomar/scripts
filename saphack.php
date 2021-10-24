@@ -1,5 +1,5 @@
 <?php
-    require_once("/usr/local/sap/saprfc-php7.0/saprfc.php"); 
+    require_once("/usr/local/saprfc/saprfc.php"); 
 
     require_once("constants.php");
     //Read the wordlist

@@ -1,12 +1,12 @@
 <?php
-    require_once("/usr/local/sap/saprfc-php7.0/saprfc.php"); 
+    require_once("/usr/local/saprfc/saprfc.php"); 
 
     const SAP_IP = "192.168.10.30";
     const SAP_NR = "01";
     const SAP_ID = "IDE";
     const SAP_CLIENT = "400";
-    const SAP_USER = "BUYER";
-    const SAP_PASSWD = "Init.1234";
+    const SAP_USER = "EINKAUFSCHEF";
+    const SAP_PASSWD = "Init1234";
 	//const SAP_ROUTER = '/H/www.evalco.eu/S/3299/W/Gk65tP67RsR32/H/';
     
 
